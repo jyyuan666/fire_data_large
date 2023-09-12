@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>fire-douyin</folder>
+  <filename>douyin(11)</filename>
+  <path>douyin(11)</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>540</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>95</xmin>
+      <ymin>13</ymin>
+      <xmax>454</xmax>
+      <ymax>393</ymax>
+    </bndbox>
+  </object>
+</annotation>

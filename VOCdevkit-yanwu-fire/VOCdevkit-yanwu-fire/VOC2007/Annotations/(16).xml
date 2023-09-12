@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>image</folder>
+  <filename>(16)</filename>
+  <path>(16)</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>393</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>251</xmin>
+      <ymin>133</ymin>
+      <xmax>354</xmax>
+      <ymax>310</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>positive</folder>
+  <filename>yanwu_shouji(68)</filename>
+  <path>F:\yanwu\positive\yanwu_shouji(68).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>300</width>
+    <height>225</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>yanwu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>104</xmin>
+      <ymin>15</ymin>
+      <xmax>257</xmax>
+      <ymax>181</ymax>
+    </bndbox>
+  </object>
+</annotation>

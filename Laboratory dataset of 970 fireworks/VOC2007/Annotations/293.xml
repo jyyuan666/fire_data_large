@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoke</folder>
+	<filename>293.jpg</filename>
+	<path>E:\Project\label\smoke\293.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>12</ymin>
+			<xmax>298</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

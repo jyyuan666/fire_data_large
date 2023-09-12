@@ -1,0 +1,39 @@
+<?xml version="1.0" ?><annotation>
+  <folder>VOC2007</folder>
+  <filename>fire_shouji(79)</filename>
+  <source>
+    <annotation>PASCAL VOC2007</annotation>
+    <database/>
+    <image>flickr</image>
+    <flickrid>35435</flickrid>
+  </source>
+  <size>
+    <width>1680</width>
+    <height>990</height>
+    <channel>3</channel>
+  </size>
+  <object>
+    <name>fire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>611</xmin>
+      <ymin> 211</ymin>
+      <xmax> 1184 </xmax>
+      <ymax>715</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1365</xmin>
+      <ymin> 446</ymin>
+      <xmax> 1654 </xmax>
+      <ymax>728</ymax>
+    </bndbox>
+  </object>
+</annotation>

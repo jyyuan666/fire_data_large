@@ -1,0 +1,51 @@
+<?xml version="1.0" ?><annotation>
+	<folder>VOC2005</folder>
+	<filename>Y360</filename>
+	<source>
+		<database>The VOC2005 Database</database>
+		<annotation>PASCAL VOC2005</annotation>
+		<image>flickr</image>
+	</source>
+	<size>
+		<width>503</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>86</ymin>
+			<xmax>401</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>196</ymin>
+			<xmax>118</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yanwu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>0</ymin>
+			<xmax>503</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

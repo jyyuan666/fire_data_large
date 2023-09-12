@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>yanwu</folder>
+  <filename>2020(3)</filename>
+  <path>C:\Users\Administrator\Desktop\yanwu\2020(3).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1080</width>
+    <height>1440</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>yanwu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>343</xmin>
+      <ymin>451</ymin>
+      <xmax>558</xmax>
+      <ymax>795</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?><annotation>
+	<folder>VOC2005</folder>
+	<filename>Y1063</filename>
+	<source>
+		<database>The VOC2005 Database</database>
+		<annotation>PASCAL VOC2005</annotation>
+		<image>flickr</image>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yanwu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>295</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

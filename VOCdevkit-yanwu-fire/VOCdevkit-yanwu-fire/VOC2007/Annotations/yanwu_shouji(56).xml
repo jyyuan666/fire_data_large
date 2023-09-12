@@ -1,0 +1,27 @@
+<?xml version="1.0" ?><annotation>
+  <folder>VOC2007</folder>
+  <filename>yanwu_shouji(56).jpg</filename>
+  <source>
+    <annotation>PASCAL VOC2007</annotation>
+    <database/>
+    <image>flickr</image>
+    <flickrid>35435</flickrid>
+  </source>
+  <size>
+    <width>5273</width>
+    <height>3516</height>
+    <channel>3</channel>
+  </size>
+  <object>
+    <name>yanwu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>599</xmin>
+      <ymin> 444</ymin>
+      <xmax> 2957 </xmax>
+      <ymax>1886</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>11</folder>
+  <filename>caiji2</filename>
+  <path>caiji2</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1080</width>
+    <height>1440</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>yanwu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>436</xmin>
+      <ymin>777</ymin>
+      <xmax>683</xmax>
+      <ymax>1015</ymax>
+    </bndbox>
+  </object>
+</annotation>

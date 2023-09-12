@@ -1,0 +1,1 @@
+/home/hyz/darknet/VOCdevkit/VOC2007/JPEGImages/camera(20).jpg
