@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FireData</folder>
+	<filename>Fire_1574.jpg</filename>
+	<path>Fire_Data\coco2017\JPEGImages\Fire_1574.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>20</ymin>
+			<xmax>171</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>
