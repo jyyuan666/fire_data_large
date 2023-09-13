@@ -1,0 +1,51 @@
+<annotation>
+	<folder>FireData</folder>
+	<filename>Fire_3993.jpg</filename>
+	<source>
+		<database>The VOC2005 Database</database>
+		<annotation>PASCAL VOC2005</annotation>
+		<image>flickr</image>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>938</ymin>
+			<xmax>958</xmax>
+			<ymax>1101</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1064</xmin>
+			<ymin>624</ymin>
+			<xmax>2119</xmax>
+			<ymax>968</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>623</xmin>
+			<ymin>781</ymin>
+			<xmax>722</xmax>
+			<ymax>906</ymax>
+		</bndbox>
+	</object>
+</annotation>

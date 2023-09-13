@@ -1,0 +1,27 @@
+<annotation>
+	<folder>FireData</folder>
+	<filename>Fire_10432.jpg</filename>
+	<source>
+		<database>The VOC2005 Database</database>
+		<annotation>PASCAL VOC2005</annotation>
+		<image>flickr</image>
+	</source>
+	<size>
+		<width>948</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>388</ymin>
+			<xmax>653</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>open_fire</folder>
+	<filename>Fire_2418.jpg</filename>
+	<path>F:\Fire_Data\Fire_img\open_fire\Fire_2418.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>27</ymin>
+			<xmax>171</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>
