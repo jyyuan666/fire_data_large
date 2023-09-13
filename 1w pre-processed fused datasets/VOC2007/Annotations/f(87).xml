@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>image</folder>
+  <filename>f(87).jpg</filename>
+  <path>./Annotations/f(87).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1034</width>
+    <height>546</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>smoke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>444</xmin>
+      <ymin>3</ymin>
+      <xmax>597</xmax>
+      <ymax>86</ymax>
+    </bndbox>
+  </object>
+</annotation>

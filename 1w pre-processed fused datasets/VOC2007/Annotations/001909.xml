@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>train1</folder>
+  <filename>001909.jpg</filename>
+  <path>./Annotations/001909.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>525</width>
+    <height>350</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>157</xmin>
+      <ymin>23</ymin>
+      <xmax>306</xmax>
+      <ymax>267</ymax>
+    </bndbox>
+  </object>
+</annotation>

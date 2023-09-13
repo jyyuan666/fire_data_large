@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+		<folder>VOC2012</folder>
+		<filename>e(926).jpg</filename>
+		<path>./Annotations/e(926).jpg</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>569</width>
+			<height>398</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+	</annotation>

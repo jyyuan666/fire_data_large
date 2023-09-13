@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<folder>fire&amp;smoke</folder>
+	<filename>e(3692).jpg</filename>
+	<path>./Annotations/e(3692).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>325</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>26</ymin>
+			<xmax>309</xmax>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>e(1506).jpg</filename>
+  <source>./Annotations/e(1506).jpg<annotation>PASCAL VOC2007</annotation>
+    <database />
+    <image>flickr</image>
+    <flickrid>35435</flickrid>
+  </source>
+  <size>
+    <width>509</width>
+    <height>340</height>
+    <channel>3</channel>
+  </size>
+  <object>
+    <name>fire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>86</xmin>
+      <ymin> 72</ymin>
+      <xmax> 141 </xmax>
+      <ymax>207</ymax>
+    </bndbox>
+  </object>
+</annotation>

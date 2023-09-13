@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>e(4166).jpg</filename>
+  <path>./Annotations/e(4166).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>243</width>
+    <height>208</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>39</xmin>
+      <ymin>136</ymin>
+      <xmax>101</xmax>
+      <ymax>179</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>smoke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>43</xmin>
+      <ymin>9</ymin>
+      <xmax>173</xmax>
+      <ymax>129</ymax>
+    </bndbox>
+  </object>
+</annotation>

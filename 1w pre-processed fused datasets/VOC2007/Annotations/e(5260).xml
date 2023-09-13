@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>positive</folder>
+  <filename>e(5260).jpg</filename>
+  <path>./Annotations/e(5260).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>117</width>
+    <height>150</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>smoke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>6</ymin>
+      <xmax>101</xmax>
+      <ymax>133</ymax>
+    </bndbox>
+  </object>
+</annotation>

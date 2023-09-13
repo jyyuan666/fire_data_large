@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>fire-douyin</folder>
+  <filename>e(1207).jpg</filename>
+  <path>./Annotations/e(1207).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>492</xmin>
+      <ymin>170</ymin>
+      <xmax>632</xmax>
+      <ymax>268</ymax>
+    </bndbox>
+  </object>
+</annotation>
