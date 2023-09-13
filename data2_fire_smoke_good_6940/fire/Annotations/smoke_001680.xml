@@ -1,0 +1,51 @@
+<annotation>
+	<folder>VOC2005</folder>
+	<filename>001680.jpg</filename>
+	<source>
+		<database>The VOC2019 Database</database>
+		<annotation>PASCAL VOC2019</annotation>
+		<image>flickr</image>
+	</source>
+	<size>
+		<width>612</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>7</ymin>
+			<xmax>367</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>105</ymin>
+			<xmax>377</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>127</ymin>
+			<xmax>163</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

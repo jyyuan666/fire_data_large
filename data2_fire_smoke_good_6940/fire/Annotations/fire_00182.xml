@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>00182.jpg</filename>
+	<path>G:\data\训练图集\明火\图集叠加\允许漏报（圈的少）\JPEGImages\00182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>440</width>
+		<height>545</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>193</ymin>
+			<xmax>247</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

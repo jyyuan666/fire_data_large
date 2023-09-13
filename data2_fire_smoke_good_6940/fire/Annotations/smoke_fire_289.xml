@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>fire_289.jpg</filename>
+	<path>G:\data\训练图集\烟雾\图集叠加\JPEGImages\fire_289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>9</ymin>
+			<xmax>270</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

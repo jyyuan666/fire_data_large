@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000041.jpg</filename>
+	<path>G:\data\训练图集\烟雾\图集叠加\允许漏报（圈的少）\JPEGImages\000041.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>994</width>
+		<height>531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>29</ymin>
+			<xmax>568</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>
