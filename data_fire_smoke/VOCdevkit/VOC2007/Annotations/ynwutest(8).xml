@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>image</folder>
+  <filename>ynwutest(8)</filename>
+  <path>C:\Users\HYZ\Desktop\image\ynwutest(8).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>yanwu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>304</xmin>
+      <ymin>239</ymin>
+      <xmax>356</xmax>
+      <ymax>328</ymax>
+    </bndbox>
+  </object>
+</annotation>

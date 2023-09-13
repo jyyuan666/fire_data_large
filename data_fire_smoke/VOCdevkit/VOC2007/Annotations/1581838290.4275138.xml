@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>yanwu</folder>
+  <filename>1581838290.4275138</filename>
+  <path>C:\Users\Administrator\Desktop\yanwu\1581838290.4275138.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>544</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>yanwu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>38</xmin>
+      <ymin>272</ymin>
+      <xmax>293</xmax>
+      <ymax>577</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>VOC2007</folder>
+		<filename>yanwu_shouji(167).jpg</filename>
+		<size>
+			<width>2048</width>
+			<height>1536</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>yanwu</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>13</xmin>
+				<ymin>1</ymin>
+				<xmax>1681</xmax>
+				<ymax>941</ymax>
+			</bndbox>
+		</object>
+	</annotation>

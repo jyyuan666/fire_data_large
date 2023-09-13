@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>VOC2007</folder>
+		<filename>Img_996.jpg</filename>
+		<size>
+			<width>1920</width>
+			<height>1088</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>yanwu</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>423</xmin>
+				<ymin>358</ymin>
+				<xmax>750</xmax>
+				<ymax>628</ymax>
+			</bndbox>
+		</object>
+	</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>images</folder>
+  <filename>fire_shouji(118)</filename>
+  <path>F:\fire\images\fire_shouji(118).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>281</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fire</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>104</xmin>
+      <ymin>1</ymin>
+      <xmax>210</xmax>
+      <ymax>174</ymax>
+    </bndbox>
+  </object>
+</annotation>

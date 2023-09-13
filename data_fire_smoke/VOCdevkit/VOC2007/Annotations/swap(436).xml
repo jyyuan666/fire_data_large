@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>VOC2007</folder>
+		<filename>swap(436).jpg</filename>
+		<size>
+			<width>299</width>
+			<height>168</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>fire</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>174</xmin>
+				<ymin>42</ymin>
+				<xmax>198</xmax>
+				<ymax>77</ymax>
+			</bndbox>
+		</object>
+	</annotation>

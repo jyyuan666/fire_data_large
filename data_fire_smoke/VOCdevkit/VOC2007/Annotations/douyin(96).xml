@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>VOC2007</folder>
+		<filename>douyin(96).jpg</filename>
+		<size>
+			<width>720</width>
+			<height>1280</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>fire</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>176</xmin>
+				<ymin>269</ymin>
+				<xmax>562</xmax>
+				<ymax>973</ymax>
+			</bndbox>
+		</object>
+	</annotation>

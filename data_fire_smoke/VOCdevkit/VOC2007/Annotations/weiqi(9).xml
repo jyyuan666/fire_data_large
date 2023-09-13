@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+  <folder>image</folder>
+  <filename>weiqi(9)</filename>
+  <path>C:\Users\HYZ\Desktop\video\image\weiqi(9).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1354</width>
+    <height>756</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>yanwu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>775</xmin>
+      <ymin>120</ymin>
+      <xmax>891</xmax>
+      <ymax>175</ymax>
+    </bndbox>
+  </object>
+</annotation>

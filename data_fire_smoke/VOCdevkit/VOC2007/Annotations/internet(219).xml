@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>fire&amp;smoke</folder>
+	<filename>internet(219)</filename>
+	<path>C:\Users\86377\Desktop\fire&amp;smoke\internet(219).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>535</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>95</ymin>
+			<xmax>389</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>smoke</folder>
+	<filename>Img_112.jpg</filename>
+	<path>C:\Users\邵小熙\Desktop\traindata\smoke\Img_112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yanwu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>475</ymin>
+			<xmax>834</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+</annotation>

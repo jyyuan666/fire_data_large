@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><annotation>
+		<folder>VOC2012</folder>
+		<filename>back(76).jpg</filename>
+		<path>C:/Users/HYZ/Desktop/yanwu/negative/back(76).jpg</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>1800</width>
+			<height>1200</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+	</annotation>

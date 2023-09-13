@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><annotation>
+		<folder>VOC2012</folder>
+		<filename>background(375)</filename>
+		<path>background(375)</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>1537</width>
+			<height>1137</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+	</annotation>

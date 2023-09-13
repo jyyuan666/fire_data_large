@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>VOC2007</folder>
+		<filename>fire_shouji(117).jpg</filename>
+		<size>
+			<width>1000</width>
+			<height>631</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>fire</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>214</xmin>
+				<ymin>14</ymin>
+				<xmax>689</xmax>
+				<ymax>532</ymax>
+			</bndbox>
+		</object>
+	</annotation>

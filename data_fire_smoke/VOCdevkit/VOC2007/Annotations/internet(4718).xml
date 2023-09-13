@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>VOC2007</folder>
+		<filename>internet(4718).jpg</filename>
+		<size>
+			<width>260</width>
+			<height>195</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>fire</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>151</xmin>
+				<ymin>31</ymin>
+				<xmax>207</xmax>
+				<ymax>190</ymax>
+			</bndbox>
+		</object>
+	</annotation>
